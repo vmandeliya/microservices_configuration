@@ -1,1 +1,1 @@
-# eazybytes-config
+# nst-configbytes-config
