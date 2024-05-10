@@ -1,8 +1,6 @@
 server:
   port: 8070
 
-
-
 eureka:
   instance:
     hostname: localhost
@@ -11,4 +9,4 @@ eureka:
     registerWithEureka: false
     serviceUrl:
       defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
-    
+  
