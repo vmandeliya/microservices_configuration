@@ -1,1 +1,11 @@
-l1Service
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to NstBank accounts related docker APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@NstBank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
